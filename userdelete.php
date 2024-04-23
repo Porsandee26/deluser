@@ -22,6 +22,8 @@ echo '<img src="bin.png">';
 
 	}
 <!-- First Comment !-->
+<?php echo "Porsandee";?>
+<?php echo "Champanil";?>
 	mysqli_close($objConnect);
 ?></h1>
 </body>
